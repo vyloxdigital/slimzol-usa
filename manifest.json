@@ -1,0 +1,15 @@
+{
+  "name": "Slimzol USA — the formula, the cost and where to order",
+  "short_name": "Slimzol USA",
+  "description": "An independently published guide to Slimzol: the twenty-two ingredients grouped and explained, the real cost per day, and the official order page.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fcfaf5",
+  "theme_color": "#fcfaf5",
+  "icons": [
+    { "src": "/images/favicon.png", "sizes": "any", "type": "image/png", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,54 @@
+# Slimzol
+
+> An independently published guide to Slimzol, a liquid weight loss support dietary supplement sold in a 1 Fl Oz (30 mL) dropper bottle of 30 servings. Written for readers in the United States at https://slimzol-usa.vercel.app/. Orders complete on the company's own checkout. Last reviewed 13 November 2026.
+
+Each 1 mL dropperful of Slimzol carries 7 mcg of chromium as chromium picolinate (20% of the Daily Value) and a 15.47 mg proprietary blend of 21 ingredients. This page groups that blend by what each part is: four adaptogenic roots (maca, eleuthero, astragalus, Panax ginseng), four warming or stimulant botanicals (guarana, green tea, cayenne, Coleus forskohlii), four fruit and taste botanicals (Gymnema, African mango, grape seed, grapefruit seed), nine amino acids and related compounds, and the one trace mineral. The liquid base is water, natural flavors, potassium sorbate, stevia, xylitol and citrus extract. Suggested use is one dropperful daily, shaken first, placed in the mouth and swallowed. Cost runs from $1.63 to $2.63 a day depending on pack size, with a 60-day money-back guarantee. Sold to adults 18 and over.
+
+## Page sections
+
+- [Slimzol in a single paragraph](https://slimzol-usa.vercel.app/#what): what the product is, what a serving contains and what using it involves.
+- [The Slimzol formula, sorted into five groups](https://slimzol-usa.vercel.app/#families): the twenty-two ingredients arranged by what each one actually is.
+- [The four adaptogenic roots in Slimzol](https://slimzol-usa.vercel.app/#adaptogens): maca, eleuthero, astragalus and Panax ginseng, with origins.
+- [The warming botanicals in Slimzol, and the caffeine question](https://slimzol-usa.vercel.app/#thermo): guarana, green tea, cayenne and Coleus forskohlii, and why morning dosing follows.
+- [Slimzol's fruit and taste botanicals](https://slimzol-usa.vercel.app/#sweet): Gymnema sylvestre, African mango seed, grape seed and grapefruit seed.
+- [The amino acid side of Slimzol](https://slimzol-usa.vercel.app/#amino): the final nine entries, from raspberry ketones to L-carnitine HCl.
+- [Chromium, the one Slimzol ingredient with a Daily Value](https://slimzol-usa.vercel.app/#mineral): 7 mcg per serving, 20% DV, and what that is worth.
+- [The Slimzol label, line by line](https://slimzol-usa.vercel.app/#panel): the complete Supplement Facts panel plus the Other Ingredients line.
+- [What one dropperful of Slimzol actually measures](https://slimzol-usa.vercel.app/#dose): 1 mL, thirty to a bottle, and how to tell if you are over-pouring.
+- [Fitting Slimzol into an ordinary day](https://slimzol-usa.vercel.app/#day): timing, shaking, and taking it neat or in water.
+- [Your first week with Slimzol, in order](https://slimzol-usa.vercel.app/#first): six steps from checking the seal to the day-seven check-in.
+- [What Slimzol costs, per day and per year](https://slimzol-usa.vercel.app/#cost): $2.63, $2.30 or $1.63 a day, and roughly $595 to $960 a year.
+- [Slimzol prices and pack sizes](https://slimzol-usa.vercel.app/#prices): per-bottle price, total and shipping for the two, three and six-bottle packs.
+- [The Slimzol guarantee, read closely](https://slimzol-usa.vercel.app/#guarantee): 60 days from purchase, and the two questions a seal never answers.
+- [Ordering Slimzol and what turns up](https://slimzol-usa.vercel.app/#delivery): what is in the parcel and which packs ship free.
+- [Buying Slimzol without being caught out](https://slimzol-usa.vercel.app/#safe): why marketplace listings and cut prices are a flag.
+- [Slimzol's cautions, in the label's own words](https://slimzol-usa.vercel.app/#cautions): the caution block quoted and explained.
+- [Talking to a clinician about Slimzol](https://slimzol-usa.vercel.app/#clinician): what to show a pharmacist and which ingredients tend to prompt questions.
+- [Reading Slimzol reviews well](https://slimzol-usa.vercel.app/#reviews): where feedback is collected and what makes a review useful.
+- [Slimzol questions and answers](https://slimzol-usa.vercel.app/#faq): ten questions on the formula, dosing, servings, caffeine and sugar, cost, stockists, exclusions, storage and refunds.
+- [A short Slimzol glossary](https://slimzol-usa.vercel.app/#glossary): dropperful, proprietary blend, 20:1 extract equivalent, %Daily Value and more.
+- [About this Slimzol page](https://slimzol-usa.vercel.app/#about): sources used and the affiliate relationship behind the site.
+
+## Ordering
+
+- [Order Slimzol on the company's official checkout](https://wellnesspro360.com/buy/Slimzol): two bottles at $79 each ($158 plus shipping, $2.63 a day), three bottles at $69 each ($207, free US shipping, $2.30 a day), six bottles at $49 each ($294, free US shipping, $1.63 a day). One payment per pack, no subscription advertised, 60-day money-back guarantee throughout. Figures read from the company's order page on 13 November 2026.
+
+## Sources cited on this page
+
+- [NIH Office of Dietary Supplements: chromium](https://ods.od.nih.gov/factsheets/Chromium-Consumer/): intakes, forms and evidence for the one mineral on the Slimzol panel.
+- [NIH Office of Dietary Supplements: dietary supplements for weight loss](https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/): an ingredient-by-ingredient review of this category.
+- [NCCIH: weight control](https://www.nccih.nih.gov/health/weight-control): the evidence for complementary approaches to weight control.
+- [FDA: dietary supplements](https://www.fda.gov/food/dietary-supplements): how supplements are regulated as food rather than as medicine.
+- [FTC: health claims](https://www.ftc.gov/business-guidance/advertising-marketing/health-claims): the advertising rules covering health claims and endorsement disclosure.
+- [CDC: losing weight](https://www.cdc.gov/healthyweight/losing_weight/index.html): guidance built on gradual, sustainable change.
+- [National Alliance for Eating Disorders](https://www.allianceforeatingdisorders.com/): a free helpline answered by licensed clinicians.
+
+## Optional
+
+- [Slimzol sitemap](https://slimzol-usa.vercel.app/sitemap.xml): the canonical URL and its images.
+- [Slimzol robots.txt](https://slimzol-usa.vercel.app/robots.txt): crawling permissions, which allow all major search and AI crawlers.
+- [Slimzol agent-readable description](https://slimzol-usa.vercel.app/.well-known/ard.json): structured label, formula, pricing, FAQ and safety records in ARD 0.91 format.
+
+## Disclosure
+
+- [Affiliate and medical disclosure](https://slimzol-usa.vercel.app/#about): a commission may be paid when an order starts from a link here, with no effect on the buyer's price. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. Nothing here is medical advice.
